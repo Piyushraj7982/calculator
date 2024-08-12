@@ -52,6 +52,6 @@ Contributions are always welcome! To contribute:
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
-- Email: your-prajsm2@gmail.com
+- Email: prajsm5@gmail.com
 - GitHub: https://github.com/Piyushraj7982
 
